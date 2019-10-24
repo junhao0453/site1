@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>하우 디자인</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="jquery.js"></script>
+    <script src="index.js"></script>
+    <!-- nivo 슬라이더 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-nivoslider/3.2/jquery.nivo.slider.pack.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-nivoslider/3.2/nivo-slider.min.css">
+    <!-- owl 캐러셀 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.theme.default.min.css">
+</head>
+
+<body>
+    <div class="top-bar con-min-width">
+        <div class="con row">
+            <nav class="menu-1 cell-right">
+                <ul class="row">
+                    <li class="cell"><a href="#">로그인</a></li>
+                    <li class="cell"><a href="#">회원가입</a></li>
+                    <li class="cell"><a href="#">my shop</a></li>
+                    <li class="cell"><a href="#">장바구니</a></li>
+                    <li class="cell"><a href="#">주문조회</a></li>
+                    <li class="cell"><a href="#">고객센터</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="menu-bar relative con text-align-center line-height-0-ch-only">
+        <nav class="menu-1 absolute-left absolute-middle">
+            <ul class="row">
+                <li class="cell"><a href="#">NOTICE</a></li>
+                <li class="cell"><a href="#">EVENT</a></li>
+                <li class="cell"><a href="#">REVIEW</a></li>
+                <li class="cell"><a href="#">BLOGGER</a></li>
+                <li class="cell"><a href="#">PR</a></li>
+                <li class="cell"><a href="#">FAQ</a></li>
+                <li class="cell"><a href="#">Q&A</a></li>
+            </ul>
+        </nav>
+        <a class="logo inline-block" href="#" target="_blank"><img src="img/log.jpg" alt="" class="block" style="width:337px;height:149px;"></a>
+        <form class="search-box absolute-right absolute-middle">
+            <input type="text" placeholder="검색어를 입력해주세요.">
+            <img class="absolute-right absolute-middle" src="img/btn_search.gif" style="width:22px; height:22px;" alt="">
+        </form>
+    </div>
+    <div class="menu-2-bar con text-align-center line-height-0-ch-only">
+        <nav class="menu-1 inline-block">
+            <ul class="row">
+                <li class="cell">
+                    <a href="#">GIFT SET / PACKAGE</a>
+                    <ul>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                    </ul>
+                </li>
+                <li class="cell">
+                    <a href="#">GIFT SET / PACKAGE</a>
+                    <ul>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                    </ul>
+                </li>
+                <li class="cell">
+                    <a href="#">GIFT SET / PACKAGE</a>
+                    <ul>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                    </ul>
+                </li>
+                <li class="cell">
+                    <a href="#">GIFT SET / PACKAGE</a>
+                    <ul>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                    </ul>
+                </li>
+                <li class="cell">
+                    <a href="#">GIFT SET / PACKAGE</a>
+                    <ul>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                    </ul>
+                </li>
+                <li class="cell">
+                    <a href="#">GIFT SET / PACKAGE</a>
+                    <ul>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                    </ul>
+                </li>
+                <li class="cell">
+                    <a href="#">GIFT SET / PACKAGE</a>
+                    <ul>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                        <li><a href="">스승의날</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <div class="top-bn-bar con row">
+        <div class="cell">
+            <div class="img-box"><img src="img/log2.jpg" alt="" style="width:221px;height:282px;"></div>
+            <nav class="article-list">
+                <ul>
+                    <li><a href="#">+[종료] 가정의 달! 어버이 날, ...</a></li>
+                    <li><a href="#">+[종료] 가정의 달! 어버이 날, ...</a></li>
+                    <li><a href="#">+[종료] 가정의 달! 어버이 날, ...</a></li>
+                    <li><a href="#">+[종료] 가정의 달! 어버이 날, ...</a></li>
+                    <li><a href="#">+[종료] 가정의 달! 어버이 날, ...</a></li>
+                    <li><a href="#">+[종료] 가정의 달! 어버이 날, ...</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="slider-1 cell">
+            <div id="nivoSlider1">
+                <img src="http://ncs.oa.gg/resource/2019-fullstack-course/site/vivienne.kr/img/ba3350d47a18a899085ae3913c597d88.jpg" title="골드 라벨 컬렉션 선물세트" style="width:595px;height:456px;" border="0" />
+                <img src="img/2test.jpg" alt="골드 라벨 컬렉션 500ml (10종)" title="골드 라벨 컬렉션 500ml (10종)" style="width:100%;height:100%;" border="0" />
+                <img src="img/1test.jpg" alt="대용량 디퓨저 용 액세서리" title="대용량 디퓨저 용 액세서리" style="width:595px;height:456px;" border="0" />
+            </div>
+        </div>
+        <div class="visual-right cell" style="background-color: black;">
+            <div class="img-box">
+                <img src="img/logo.jpg" style="width:310px;height:96px;" alt="">
+            </div>
+            <div class="right-slider">check this</div>
+            <div class="carousel-1">
+                <ul class="owl-carousel owl-theme">
+                    <li class="item"><img src="http://ncs.oa.gg/resource/2019-fullstack-course/site/vivienne.kr/img/main_right_banner05.jpg" alt=""></li>
+                    <li class="item"><img src="http://ncs.oa.gg/resource/2019-fullstack-course/site/vivienne.kr/img/main_right_banner03.jpg" alt=""></li>
+                    <li class="item"><img src="http://ncs.oa.gg/resource/2019-fullstack-course/site/vivienne.kr/img/main_right_banner02_4.jpg" alt=""></li>
+                    <li class="item"><img src="http://ncs.oa.gg/resource/2019-fullstack-course/site/vivienne.kr/img/main_right_banner02_2.jpg" alt=""></li>
+                    <li class="item"><img src="http://ncs.oa.gg/resource/2019-fullstack-course/site/vivienne.kr/img/main_right_banner02_1.jpg" alt=""></li>
+                    <li class="item"><img src="http://ncs.oa.gg/resource/2019-fullstack-course/site/vivienne.kr/img/main_right_banner02.jpg" alt=""></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</body></html>
